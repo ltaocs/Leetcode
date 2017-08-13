@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Leetcode"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/Test"/>
+	</contentEntry>
+	<lib name="JUnit4" scope="TEST"/>
+	<levels>
+		<level name="Arquillian JUnit:Release" value="project"/>
+	</levels>
+</component>
